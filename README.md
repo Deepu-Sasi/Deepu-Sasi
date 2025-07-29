@@ -76,7 +76,7 @@ Most of my development takes place in **Google Colab, PyCharm, Kaggle Notebooks,
 
 ## 📬 Let’s Connect  
 <p align="center">
-  <a href="mailto:sasideepu049@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:deepusasi.codes@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://linkedin.com/in/deepu-sasi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
