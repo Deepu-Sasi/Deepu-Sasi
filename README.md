@@ -1,57 +1,76 @@
-# Deepu Sasi  
-
-## 👨‍💻 About Me  
-I am a **Freelance AI Consultant & Prompt Engineer** with a **B.Tech in Artificial Intelligence and Data Science**.  
-My expertise lies in **Generative AI, Machine Learning, and Natural Language Processing**, with a focus on building AI solutions that deliver practical and measurable impact.  
-
-While I may not contribute to GitHub daily, I focus on **meaningful projects and applied research**.  
-I primarily work in **Google Colab, PyCharm, Kaggle Notebooks, and VS Code**, where I design, test, and refine AI-driven solutions.  
+<h1 align="center">Hi, I'm Deepu Sasi 👋</h1>
+<h3 align="center">AI Consultant & Prompt Engineer | B.Tech in AI & Data Science</h3>
 
 ---
 
-## 📬 Contact  
-- 📧 Email: [deepusasi.codes@gmail.com](mailto:deepusasi.codes@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/deepu-sasi](https://linkedin.com/in/deepu-sasi)  
+## 🚀 About Me  
+I am a **Freelance AI Consultant & Prompt Engineer** specializing in **Generative AI, Machine Learning, and Natural Language Processing**.  
+My passion lies in transforming data into actionable intelligence and designing AI-driven solutions that solve real-world problems.  
+
+I may not commit daily on GitHub, but I dedicate my time to **meaningful projects, applied research, and leadership roles** in AI.  
+Most of my development takes place in **Google Colab, PyCharm, Kaggle Notebooks, and VS Code**, where I focus on building and testing AI solutions with precision and discipline.  
 
 ---
 
-## 🛠 Technical Skills  
-
-**Programming & AI**  
-- Python | R | Java  
-- Machine Learning | Deep Learning | NLP | Computer Vision  
-
-**Development Environments**  
-- Google Colab | PyCharm | Kaggle Notebooks | VS Code  
-
-**Libraries & Frameworks**  
-- NumPy | Pandas | Scikit-learn | TensorFlow | Keras  
-
-**Creative Tools**  
-- Adobe Illustrator | Photoshop | Lightroom | Canva  
+## 📬 Connect With Me  
+<p align="center">
+  <a href="mailto:sasideepu049@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/deepu-sasi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
 
 ---
 
-## 🏆 Achievements & Highlights  
-- **Best Paper Award – ETIS 2025**  
-  *Recognized for research excellence by APJ Abdul Kalam Technological University*  
-- **Publications:**  
+## 🛠️ Skills & Tools  
+
+### 🔹 Programming & AI  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+
+### 🔹 AI & ML Frameworks  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+### 🔹 Development Environments  
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### 🔹 Creative Tools  
+![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+---
+
+## 🏆 Achievements  
+- 🏅 **Best Paper Award – ETIS 2025**  
+- 📄 **Publications:**  
   - *ResoBlend: A Hybrid Approach for Image Quality Enhancement*  
   - *Black Pepper Leaf Disease Classification using Deep Learning Models*  
-- **Leadership Roles:**  
-  - President – Artificial Intelligence and Data Science Student’s Association (ADSA), SJCET  
-  - Chief Operations Officer – Startup Bootcamp SJCET – IEDC  
-  - Creative Lead – UiPath Academic Alliance (Past Role)  
+
+---
+
+## 👔 Leadership Experience  
+- **President** – ADSA (Artificial Intelligence & Data Science Student’s Association), SJCET  
+- **Chief Operations Officer** – Startup Bootcamp SJCET – IEDC  
+- **Creative Lead** – UiPath Academic Alliance *(Past Role)*  
 
 ---
 
 ## 📊 GitHub Insights  
-*(Note: I focus on select projects and research, rather than daily commits.)*  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Deepu-Sasi&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Deepu-Sasi&theme=blue-green&hide_border=false)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Deepu-Sasi&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Deepu-Sasi&show_icons=true&theme=blue-green" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Deepu-Sasi&theme=blue-green&hide_border=false" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepu-Sasi&layout=compact&theme=blue-green" alt="Top Languages"/>
+</p>
 
 ---
 
-![Visit Count](https://visitcount.itsvg.in/api?id=Deepu-Sasi&icon=0&color=0)  
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Deepu-Sasi&icon=0&color=0" alt="Profile Views"/>
+</p>
