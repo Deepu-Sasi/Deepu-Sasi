@@ -4,7 +4,7 @@
 I'm an Artificial Intelligence and Data Science engineering student with a passion for technology and problem-solving. I strive to leverage AI and data to create innovative solutions. Currently, I'm working on various projects, which you can find on my GitHub. Feel free to connect with me on LinkedIn to learn more about my experiences.
 
 ## Contact
-- Email: sasideepu049@gmail.com
+- Email: deepusasi.codes@gmail.com
 
 ## Socials
 - [Instagram](https://instagram.com/deepu.sasi_)
