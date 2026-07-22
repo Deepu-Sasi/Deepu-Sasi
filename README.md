@@ -94,11 +94,14 @@ My focus is turning research into systems that actually run: fine-tuning and rei
 ## &#128202; GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Deepu-Sasi&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&include_all_commits=true" height="165" alt="stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Deepu-Sasi&hide_border=true&theme=tokyonight" height="165" alt="streak"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deepu-Sasi&theme=tokyonight" width="82%" alt="profile summary"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepu-Sasi&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" height="150" alt="top langs"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Deepu-Sasi&hide_border=true&theme=tokyonight" height="180" alt="streak"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Deepu-Sasi&theme=tokyonight" height="180" alt="most used languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Deepu-Sasi&theme=tokyonight" height="180" alt="most committed language"/>
 </p>
 
 <br/>
