@@ -94,14 +94,7 @@ My focus is turning research into systems that actually run: fine-tuning and rei
 ## &#128202; GitHub Insights
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Deepu-Sasi&theme=tokyonight" width="82%" alt="profile summary"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Deepu-Sasi&hide_border=true&theme=tokyonight" height="180" alt="streak"/>
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Deepu-Sasi&theme=tokyonight" height="180" alt="most used languages"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Deepu-Sasi&theme=tokyonight" height="180" alt="most committed language"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Deepu-Sasi&hide_border=true&theme=tokyonight" height="195" alt="GitHub streak"/>
 </p>
 
 <br/>
