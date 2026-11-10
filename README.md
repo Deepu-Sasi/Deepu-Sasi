@@ -32,9 +32,9 @@ Recent **MEng graduate in Electrical &amp; Computer Engineering (AI concentratio
 | [**VeriMem-X**](https://github.com/Deepu-Sasi/verimem-x) | Memory-augmented QA with evidence checking, citations and abstention | Hallucination **33.7% vs 92.7%** for vanilla RAG |
 | [**SELF-FORGE**](https://github.com/Deepu-Sasi/self-forge-showcase) | GRPO / RLVR training that teaches a small LLM to use tools | Exact match **91% to 100%** on held-out tasks |
 | [**SENTRY-RAG**](https://github.com/Deepu-Sasi/sentry-rag) | Hardening RAG against prompt injection and index poisoning | Beat a cross-encoder baseline, lower injection risk |
-| [**Answer-Faithful Summarization**](https://github.com/Deepu-Sasi/answer-faithful-summarization) | Hallucination-resistant summaries | Fact retention **0.66 to 0.95** on SAMSum |
-| [**Jennie**](https://github.com/Deepu-Sasi/jennie-showcase) | Fully local voice assistant with agents and memory | Barge-in, runs on a 6GB GPU |
-| [**Privacy-Preserving FER**](https://github.com/Deepu-Sasi/privacy-preserving-fer) | Recognize emotion while hiding identity | Identity similarity **1.00 to -0.002** |
+| [**Answer-Faithful Summarization**](https://github.com/Deepu-Sasi/Deepu-Sasi/blob/main/projects/answer-faithful-summarization.md) | Hallucination-resistant summaries | Fact retention **0.66 to 0.95** on SAMSum |
+| [**Jennie**](https://github.com/Deepu-Sasi/Deepu-Sasi/blob/main/projects/jennie-voice-assistant.md) | Fully local voice assistant with agents and memory | Barge-in, runs on a 6GB GPU |
+| [**Privacy-Preserving FER**](https://github.com/Deepu-Sasi/Deepu-Sasi/blob/main/projects/privacy-preserving-fer.md) | Recognize emotion while hiding identity | Identity similarity **1.00 to -0.002** |
 
 More: [Monocular Depth Estimation](https://github.com/Deepu-Sasi/Deepu-Sasi/blob/main/projects/monocular-depth-estimation.md) &middot; [ResoBlend](https://github.com/Deepu-Sasi/Deepu-Sasi/blob/main/projects/resoblend.md) &middot; [CollisionScopeTO](https://github.com/Deepu-Sasi/Deepu-Sasi/blob/main/projects/collisionscope-to.md) &middot; [Context Lens](https://github.com/Deepu-Sasi/Deepu-Sasi/blob/main/projects/context-lens.md)
 
